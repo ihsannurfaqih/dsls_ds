@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Another exclusion
+data/
+docs/
+.Rproj.user
+.Rprod
+.RData
+.Rhistory
+dsls_ds.Rproj
+src/*.Rmd
