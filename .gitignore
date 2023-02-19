@@ -131,7 +131,6 @@ dmypy.json
 # Another exclusion
 *.xlsx
 *.csv
-docs/
 .Rproj.user
 .Rprod
 .RData
